@@ -1,0 +1,31 @@
+﻿EvtId,EvNm,EvTyp,EvDt,StTm,EndTm,VenNm,City,Cap,HomeTm,OppTm,Season,IsSpec
+EVT00001,GamePulse vs. Las Vegas Flash,Game,10/7/2024,17:00,,gamepulse ARENA,Dallas,9037,GamePulse Texas,Las Vegas Flash,2024-25,no
+EVT00002,GamePulse vs. Minneapolis Frost,play-off,10/12/2024, 18:00 ,9:10 PM,gamepulse arena ,Dallas,9326,GamePulse Texas,Minneapolis Frost,2024-25,
+EVT00003,Gameday: GamePulse Texas - New York Guardians,concert  ,10/20/2024,19:00,10:15 PM,GP Arena,Austin ,10104,GamePulse Texas,New York Guardians,2024-25,TRUE
+EVT00004,gamepulse texas VS San Diego Surf,Playoff,10/25/2024, 16:30 ,,gamepulse ARENA,Austin,8763,GamePulse Texas,San Diego Surf,2024-25,
+EVT00005,gamepulse texas VS Nashville Sparks,concert  ,2-Nov-24,8:30 PM,11:40 PM,GP Arena,Austin ,"8,739",GamePulse Texas,Nashville Sparks,2024-25,1
+EVT00006,GPTX vs Miami Waves,play-off,11/8/2024,4:00 PM,,GP Arena,Austin,10116$,GamePulse Texas,Miami Waves,2024-25,no
+EVT00007,GamePulse Texas vs Seattle Aurora,Game,17-Nov-24,6:15 PM,,GamePulse Field,Austin,10210$,GamePulse Texas,Seattle Aurora,2024-25,Yes
+EVT00008,Gameday: GamePulse Texas - Seattle Aurora,play-off,24-Nov-24,7:15 PM,,GamePulse Arena,Dallas,9.6k,GamePulse Texas,Seattle Aurora,2024-25,TRUE
+EVT00009,GPTX vs Las Vegas Flash,Playoff,29-Nov-24, 19:00 ,22:15,GP Arena,Austin ,"9,822",GamePulse Texas,Las Vegas Flash,2024-25,
+EVT00010,GPTX vs Chicago Freeze,play-off,8-Dec-24,5:45 PM,9:00 PM,gamepulse arena ,Dallas,"9,017",GamePulse Texas,Chicago Freeze,2024-25,no
+EVT00011,Gameday: GamePulse Texas - Seattle Aurora,play-off,12/14/2024, 17:00 ,8:00 PM,gamepulse arena ,Dallas,10.2k,GamePulse Texas,Seattle Aurora,2024-25,TRUE
+EVT00012,GPTX vs Phoenix Comets,concert  ,12/22/2024,17:45,,GamePulse Arena,Austin,8.8k,GamePulse Texas,Phoenix Comets,2024-25,
+EVT00013,Gameday: GamePulse Texas - New York Guardians,Playoff,12/29/2024,4:00 PM,,gamepulse arena ,San Antonio,9347,GamePulse Texas,New York Guardians,2024-25,TRUE
+EVT00014,Gameday: GamePulse Texas - Denver Blaze,play-off,3-Jan-25,7:00 PM,10:00 PM,GamePulse Arena,Dallas,9588$,GamePulse Texas,Denver Blaze,2024-25,1
+EVT00015,GamePulse Texas vs Montreal Fury,game,1/12/2025,7:15 PM,10:15 PM,GP Arena,San Antonio,9137,GamePulse Texas,Montreal Fury,2024-25,no
+EVT00016,GPTX vs Miami Waves,play-off,1/17/2025,,,gamepulse arena ,Austin ,10.1k,GamePulse Texas,Miami Waves,2024-25,1
+EVT00017,GamePulse Texas vs New York Guardians,concert  ,1/22/2025,21:45,12:45 AM,GP Arena,Dallas,10.0k,GamePulse Texas,New York Guardians,2024-25,
+EVT00018,GamePulse Texas vs Toronto Northstars,Playoff,1/31/2025, 19:00 ,,GamePulse Field,Austin,9073$,GamePulse Texas,Toronto Northstars,2024-25,TRUE
+EVT00019,Gameday: GamePulse Texas - San Diego Surf,play-off,2/9/2025,,,GamePulse Arena,San Antonio,9117$,GamePulse Texas,San Diego Surf,2024-25,
+EVT00020,GamePulse Texas vs Denver Blaze,Playoff,14-Feb-25,8:30 PM,11:45 PM,GamePulse Arena,Dallas,9.5k,GamePulse Texas,Denver Blaze,2024-25,no
+EVT00021,gamepulse texas VS Nashville Sparks,concert  ,2/21/2025, 19:00 ,,GP Arena,San Antonio,9358,GamePulse Texas,Nashville Sparks,2024-25,TRUE
+EVT00022,GPTX vs Las Vegas Flash,EXHIBITION,3/1/2025,20:45,,gamepulse arena ,austin,9009,GamePulse Texas,Las Vegas Flash,2024-25,TRUE
+EVT00023,GPTX vs Toronto Northstars,play-off,9-Mar-25, 16:15 ,,gamepulse arena ,San Antonio,9355$,GamePulse Texas,Toronto Northstars,2024-25,
+EVT00024,GamePulse Texas vs New York Guardians,Concert,3/16/2025,18:15,21:25,GamePulse Field,austin,8801,GamePulse Texas,New York Guardians,2024-25,1
+EVT00025,GamePulse Texas vs Phoenix Comets,Playoff,3/22/2025, 17:00 ,,GamePulse Field,austin,9287$,GamePulse Texas,Phoenix Comets,2024-25,TRUE
+EVT00026,GPTX vs Montreal Fury,concert  ,3/30/2025,6:00 PM,21:15,gamepulse arena ,Austin ,10046,GamePulse Texas,Montreal Fury,2024-25,Yes
+EVT00027,Gameday: GamePulse Texas - Montreal Fury,play-off,8-Apr-25, 16:00 ,,GamePulse Field,Austin ,"10,297",GamePulse Texas,Montreal Fury,2024-25,
+EVT00028,GamePulse vs. Seattle Aurora,Playoff,4/17/2025,20:00,,GamePulse Field,San Antonio,8832$,GamePulse Texas,Seattle Aurora,2024-25,
+EVT00029,gamepulse texas VS Denver Blaze,concert  ,4/23/2025,18:45,,GamePulse Arena,Dallas,9638$,GamePulse Texas,Denver Blaze,2024-25,TRUE
+EVT00030,GamePulse Texas vs San Diego Surf,concert  ,29-Apr-25,17:15,20:25,gamepulse arena ,Austin,9729$,GamePulse Texas,San Diego Surf,2024-25,
