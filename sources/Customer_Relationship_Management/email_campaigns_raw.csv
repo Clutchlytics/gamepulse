@@ -1,0 +1,25 @@
+﻿CampId,CampNm,LaunchDt,Purp,Chnl,Seg,Bnr,IsA_B,Notes,Src,LoadTs
+CMP0001,Mini Plan Offer  ,6-Nov-24,Survey,SMS,General Audience,Opening Night,0,Includes STH early access,mkt_cmp0001.csv,10/5/2025 13:38
+CMP0002,Playoff Deposits,10/16/2024,Merchandise,Web,Families,Community Night,Y,,mkt_cmp0002.csv,10/5/2025 13:38
+CMP0003,Holiday Ticket Pack  ,3/30/2025,ticketing,Social,Families,Playoff Push,Yes,Includes STH early access,mkt_cmp0003.csv,10/5/2025 13:38
+CMP0004,Rivalry-Night-Hype,10/21/2024,RENEWAL,Web,Families,Rivalry Week,1,preheader test,mkt_cmp0004.csv,10/5/2025 13:38
+CMP0005,Season Ticket Renewal,11/22/2024,ticketing,SMS,Students,Fan Appreciation,,,mkt_cmp0005.csv,10/5/2025 13:38
+CMP0006,Cyber_Monday_Blast,16-Nov-24,RENEWAL,email ,Students,Playoff Push,TRUE,geo-targeted to Texas,mkt_cmp0006.csv,10/5/2025 13:38
+CMP0007,Family-Four-Pack,10/2/2024,engage,Web,Families,,Y,geo-targeted to Texas,mkt_cmp0007.csv,10/5/2025 13:38
+CMP0008,Arena Upgrade Notice,4/27/2025,engage,Web,season ticket holders,Holiday Sale,0,,mkt_cmp0008.csv,10/5/2025 13:38
+CMP0009,Student Night  ,3/16/2025,Ticketing,email ,Past Buyers,Community Night,Yes,,mkt_cmp0009.csv,10/5/2025 13:38
+CMP0010,Rivalry_Night_Hype,10/1/2024,Engagement,email ,VIP,Community Night,,Includes STH early access,mkt_cmp0010.csv,10/5/2025 13:38
+CMP0011,Merch-Drop-Teaser,12/21/2024,Ticketing,Social,past_buyers,,1,Includes STH early access,mkt_cmp0011.csv,10/5/2025 13:38
+CMP0012,Merch-Drop-Teaser,3/7/2025,Ticketing,email ,past_buyers,Holiday Sale,Y,preheader test,mkt_cmp0012.csv,10/5/2025 13:38
+CMP0013, Arena Upgrade Notice,12-Feb-25,Engagement,EMAIL,past_buyers,,FALSE,Includes STH early access,mkt_cmp0013.csv,10/5/2025 13:38
+CMP0014,MINI PLAN OFFER,7-Apr-25,Engagement,Email,season ticket holders,Opening Night,0,preheader test,mkt_cmp0014.csv,10/5/2025 13:38
+CMP0015,Arena Upgrade Notice,29-Oct-24,Ticketing,Web,VIP,Holiday Sale,1,reminder wave,mkt_cmp0015.csv,10/5/2025 13:38
+CMP0016, Student Night,22-Apr-25,Engagement,SMS,New Leads,Community Night,N,reminder wave,mkt_cmp0016.csv,10/5/2025 13:38
+CMP0017,Merch Drop Teaser  ,12/10/2024,engage,Email,General Audience,Fan Appreciation,TRUE,preheader test,mkt_cmp0017.csv,10/5/2025 13:38
+CMP0018,Merch-Drop-Teaser,31-Oct-24,ticketing,SMS,Families,Opening Night,No,reminder wave,mkt_cmp0018.csv,10/5/2025 13:38
+CMP0019,Black Friday Promo,12/7/2024,Survey,Social,Season Ticket Holders,Opening Night,Y,preheader test,mkt_cmp0019.csv,10/5/2025 13:38
+CMP0020,Student Night,3/2/2025,Engagement,Web,Families,,1,geo-targeted to Texas,mkt_cmp0020.csv,10/5/2025 13:38
+CMP0021,Holiday Ticket Pack,4/19/2025,Ticketing,Email,Season Ticket Holders,,FALSE,A/B subject line,mkt_cmp0021.csv,10/5/2025 13:38
+CMP0022,Merch Drop Teaser,30-Jan-25,Engagement,Web,Past Buyers,Opening Night,N,Includes STH early access,mkt_cmp0022.csv,10/5/2025 13:38
+CMP0023,Season Ticket Renewal,12/18/2024,engage,Web,VIP,Rivalry Week,FALSE,A/B subject line,mkt_cmp0023.csv,10/5/2025 13:38
+CMP0024,Black Friday Promo,10/8/2024,engage,Email,Families,Fan Appreciation,Yes,geo-targeted to Texas,mkt_cmp0024.csv,10/5/2025 13:38
